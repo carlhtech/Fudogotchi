@@ -5,7 +5,7 @@ Welcome to the world of Fūdogotchi! You will learn how to grow all the plants y
 <img src="https://github.com/carlhtech/carlhtech/blob/main/Images/FudoImages/Screenshot1.png" width="200"/>&nbsp;&nbsp;
 <img src="https://github.com/carlhtech/carlhtech/blob/main/Images/FudoImages/Screenshot2.png" width="200"/>&nbsp;&nbsp;
 <img src="https://github.com/carlhtech/carlhtech/blob/main/Images/FudoImages/Screenshot3.png" width="200"/>&nbsp;&nbsp;
-<img src="https://github.com/carlhtech/carlhtech/blob/main/Images/FudoImages/UXDesign.jpg" width="200"/>&nbsp;&nbsp;
+<img src="https://github.com/carlhtech/carlhtech/blob/main/Images/FudoImages/UXDesign.jpg" width="300"/>&nbsp;&nbsp;
 
 ## Getting Started
 
