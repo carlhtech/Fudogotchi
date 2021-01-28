@@ -2,7 +2,7 @@
 
 Welcome to the world of Fūdogotchi! You will learn how to grow all the plants you need to live a sustainable, healthy lifestyle! As you progress through the game you will gain access to rare heirloom seeds, advanced growing techniques, and an encyclopaedia of knowledge, with the ultimate goal of growing enough real food to feed your entire family, all year round.
 
-![fud1](https://github.com/carlhtech/carlhtech/blob/main/Images/FudoImages/Screenshot1.png width="200")
+![fud1](https://github.com/carlhtech/carlhtech/blob/main/Images/FudoImages/Screenshot1.png?width="200")
 
 ## Getting Started
 
